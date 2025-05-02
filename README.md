@@ -1,4 +1,4 @@
-# ImageCraft– Text-to-Image Generator (MERN Stack)
+# ImageCraft
 
 ImageCraft is a Full Stack SaaS AI application built using **MongoDB, Express.js, React, and Node.js**. The app allows users to **generate images from text prompts using the ClipDrop API**, manage user authentication, and purchase credits through an integrated online payment gateway.
 
