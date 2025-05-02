@@ -18,24 +18,24 @@ ImageCraft is a Full Stack SaaS AI application built using **MongoDB, Express.js
 ## 🔧 Technologies Used
 
 ### Frontend
-- React.js
-- Tailwind CSS
+- **React.js**
+- **Tailwind CSS**
 
 ### Backend
-- Node.js
-- Express.js
+- **Node.js**
+- **Express.js**
 
 ### Database
-- MongoDB (Mongoose)
+- **MongoDB** (Mongoose)
 
 ### Authentication
-- JSON Web Tokens (JWT)
+- **JSON Web Tokens** (JWT)
 
 ### AI Integration
 - [ClipDrop Text-to-Image API](https://clipdrop.co/apis)
 
 ### Payment Gateway
-- Razorpay
+- **Razorpay**
 
 ---
 
